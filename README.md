@@ -3,8 +3,6 @@
 This is a test task web application.
 There are two pages /home and /offers
 
-current main branch is `master`
-
 # Troubleshooting
 
 If you have CORS Error issue during data fetch please install the [Allow-Control-Allow-Origin plugin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en)
