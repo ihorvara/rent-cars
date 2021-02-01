@@ -1,4 +1,4 @@
-import { convertToOffersModel } from "./convertor";
+import { convertToOffersModel } from "./converter";
 
 export const ADD_OFFERS = "ADD_CONNECTORS";
 
