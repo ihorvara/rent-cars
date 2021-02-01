@@ -1,6 +1,6 @@
 # Rent cars service
 
-This is a test task web application.
+This is a test task web application.\
 There are two pages /home and /offers
 
 ## Run
@@ -40,8 +40,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Libraries
 
-1.Prettier to make code style easier.
-2.Eslint to make code cleaner.
-3.Material UI to use components.
-4.Styled-components to operate with css in easier way.
-5.React-material-ui-carousel to put carousel with items in the main page.
+1. Prettier to make code style easier.
+2. Eslint to make code cleaner.
+3. Material UI to use components.
+4. Styled-components to operate with css in easier way.
+5. React-material-ui-carousel to put carousel with items in the main page.
