@@ -1,6 +1,6 @@
 # Rent cars service
 
-This is a test task web application
+This is a test task web application.
 There are two pages /home and /offers
 
 current main branch is `master`
