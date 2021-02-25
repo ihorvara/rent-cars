@@ -22,6 +22,8 @@ const NoResultBlock = styled.div`
 
 const OffersContainer = styled.div`
   margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
 `;
 
 const FilterBar = styled.div`
@@ -37,6 +39,12 @@ const Title = styled.div`
   font-size: 30px;
 `;
 
+const CardContainer = styled.div`
+  margin: 10px;
+  max-width: 350px;
+  max-height: 400px;
+`;
+
 export {
   SpinnerContainer,
   Content,
@@ -45,4 +53,5 @@ export {
   FilterBar,
   Title,
   Filter,
+  CardContainer,
 };
