@@ -24,6 +24,7 @@ const OffersContainer = styled.div`
   margin-top: 15px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 `;
 
 const FilterBar = styled.div`
